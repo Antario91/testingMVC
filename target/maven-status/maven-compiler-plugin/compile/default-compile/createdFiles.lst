@@ -1,2 +1,3 @@
-webConfig/SpringWebConfig.class
-test/controllers/homeController.class
+test\controllers\homeController.class
+webConfig\SpringWebConfig.class
+model\User.class
